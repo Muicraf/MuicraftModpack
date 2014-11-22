@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "MuicraftCP",
+            "title": "MuicraftCP(Alpha)",
+            "version": “0.7”,
+            "location": "example.json",
+            "priority": 1
+        }
+    ]
+}
