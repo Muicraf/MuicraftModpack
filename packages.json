@@ -5,7 +5,7 @@
             "name": "MuicraftCP",
             "title": "MuicraftCP(Alpha)",
             "version": "0.7",
-            "location": "example.json",
+            "location": "https://raw.githubusercontent.com/Muicraf/MuicraftModpack/master/manifest.json",
             "priority": 1
         }
     ]
